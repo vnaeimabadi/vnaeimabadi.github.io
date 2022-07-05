@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.button:hover{
+  background-color: rgba(0, 0, 0, .3) !important;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
